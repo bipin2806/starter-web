@@ -15,3 +15,5 @@ Changes for staged area
 Changes for local workspace
 
 2019 Git.Training
+
+Added line to check merge issue
