@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 Lines added
 
 Changes for local repo
+
+Changes for staged area
