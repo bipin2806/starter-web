@@ -11,3 +11,5 @@ Lines added
 Changes for local repo
 
 Changes for staged area
+
+Changes for local workspace
