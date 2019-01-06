@@ -16,4 +16,6 @@ Changes for local workspace
 
 2019 Git.Training
 
-Added line to check merge issue
+Added line to check merge issu0e
+
+Rebase addition
