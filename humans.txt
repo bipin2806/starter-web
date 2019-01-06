@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Learning rebase
 
 # TECHNOLOGY COLOPHON
 
